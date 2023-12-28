@@ -1,0 +1,41 @@
+.h1{
+    border: 1px solid rgb(182, 182, 182);
+    height: 220px;
+    width: 850px;
+    position: relative;
+}
+.h2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    left: 15px;
+}
+.h3{
+    position:absolute;
+    top:20px;
+    left: 70px; ;
+    
+}
+.h4{
+    color: grey;
+    position: absolute;
+    top:45px;
+    left: 65px;
+}
+.h5{
+    position: absolute;
+    top:80px;
+    left:20px;
+}
+.h6{
+    position: absolute;
+    top: 160px;
+    left: 20px;
+    color: grey;
+}
+.h7{
+    position: absolute;
+    top:28px;
+    left: 550px;
+}

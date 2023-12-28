@@ -1,0 +1,60 @@
+.h1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(103, 108, 108);
+    border-radius: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.h2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(103, 108, 108);
+    border-radius: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.h3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(103, 108, 108);
+    border-radius: 25%;
+    float: left;
+    position: relative;
+}
+.h4{
+    height: 35px;
+    width: 35px;
+    background-color: rgb(224, 84, 84);
+    color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top:10px;
+    left:90px;
+    text-align: center;
+}
+.h5{
+  margin-top: 10px;
+    
+}
+.h6{
+    height: 35px;
+    width: 35px;
+    background-color: rgb(224, 84, 84);
+    color: whitesmoke;
+    border-radius: 50%;
+    position: absolute;
+    top:10px;
+    left:210px;
+    text-align: center;
+}
+.h7{
+  margin-top: 10px;
+    
+}
+.h8{
+    font-size: xx-large;
+position: absolute;
+bottom: 76px;
+left:76px
+}
